@@ -3,4 +3,5 @@
 #EXTINF:-1 tvg-id="Movistar liga de campeones",
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
-#EXTINF:
+#EXTINF:-1 tvg-id="Vamos",
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
